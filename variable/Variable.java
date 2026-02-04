@@ -3,7 +3,7 @@ package variable;
 
 public class Variable {
 	public static void main(String[] args) {
-		
+		 int test=10;
 		/*
 		 Declaration  
 		 	type variabl_Name = value;
