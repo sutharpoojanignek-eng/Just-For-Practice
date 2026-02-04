@@ -56,17 +56,19 @@ public class Operators {
 
         //Ternary Operators
         int result;
-
         result = ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
         System.out.println("Max of three numbers = "+ result);
         
-        //Unary Operators  a=10, b=20
-
+        //Unary Operators  a=10, b=2
         System.out.println("Postincrement : " + (a++));
         System.out.println("Preincrement : " + (++a));
 
         System.out.println("Postdecrement : " + (b--));
         System.out.println("Predecrement : " + (--b));
+
+		int p = 10, q = 20, r = 30;
+		int avg = (p+q+r)/3;
+		System.out.println(avg);
 	}
 
 }
