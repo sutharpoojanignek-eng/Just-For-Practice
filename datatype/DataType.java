@@ -38,7 +38,11 @@ public class DataType {
 		int[] anArray = new int[10];
 		int[] array = {12,34,25};
 
+
+
 		//Class
+		
+		
 		
 		//Interface
 		

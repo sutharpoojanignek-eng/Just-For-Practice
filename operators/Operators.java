@@ -7,7 +7,6 @@ public class Operators {
 		//Arithmetic Operators
 		int a=10;
 		int b=20; 
-		
 		int sum = a+b;
 		int sub = b-a;
 		int mul = a*b;

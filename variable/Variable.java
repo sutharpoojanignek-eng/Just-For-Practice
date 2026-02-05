@@ -17,10 +17,7 @@ public class Variable {
 		
 		//If we want to declare a variable as constant then we should use 'final' variable
 		
-		final int birthYear = 2005;
-//		birthYear = 2006;
-		
-		System.out.println(birthYear);
+
 		
 	}
 
